@@ -56,5 +56,4 @@ Streamlit
 Pickle
 
 <img width="1223" height="775" alt="Image" src="https://github.com/user-attachments/assets/c3192fc6-9602-434f-afc6-df02da1a2af0" />
-<img width="1127" height="728" alt="Image" src="https://github.com/user-attachments/assets/cd20fe29-5282-4248-81ef-7aab6569eb28" />
 <img width="1110" height="412" alt="Image" src="https://github.com/user-attachments/assets/2051cce9-f634-40cb-8e0e-356d57dda525" />
